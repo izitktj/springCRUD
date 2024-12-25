@@ -1,0 +1,6 @@
+PATCH http://localhost:8080/api/user/update/01c12ee4-b55e-4a03-bd6b-4bcd63a4c0bf
+Content-Type: application/json
+
+{
+	"name": "Gustavin69"
+}

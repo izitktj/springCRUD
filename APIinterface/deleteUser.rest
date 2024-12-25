@@ -1,0 +1,2 @@
+DELETE http://localhost:8080/api/user/delete/01c12ee4-b55e-4a03-bd6b-4bcd63a4c0bf
+
